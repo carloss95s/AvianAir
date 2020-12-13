@@ -4,16 +4,15 @@
     padding: 0;
 }
 
-html {
-    font-size: 62.5%;
-    font-family: $font-mulish;
-}
-
 $darkblue: #0a043c;
 $lightblue: #03506f;
 $white: #fff;
 $font-mulish: 'Mulish', sans-serif;
 
+html {
+    font-size: 62.5%;
+    font-family: $font-mulish;
+}
 
 body {
     background-color: $darkblue;
